@@ -2,7 +2,7 @@
 //  MemoryGameApp.swift
 //  MemoryGame
 //
-//  Created by Ujjwal Adhikari on 2/16/26.
+//  Created by Rista Subedi on 2/16/26.
 //
 
 import SwiftUI
